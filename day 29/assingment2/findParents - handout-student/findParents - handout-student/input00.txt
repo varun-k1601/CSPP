@@ -1,0 +1,2 @@
+{"name": "Ned", "left": {"name": "Rickard", "left": None, "right": None}, "right": {"name": "Lyarra", "left": None, "right": None}}
+Ned

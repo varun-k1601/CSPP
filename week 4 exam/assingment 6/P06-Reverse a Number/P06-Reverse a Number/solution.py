@@ -1,0 +1,11 @@
+n=int(input())
+sum=0
+count=0
+while(n>0):
+    rem=n%10
+    sum+=((10**count)*rem)
+    count+=1
+    n//=10
+a=str(sum)
+sum=a[::-1]
+print(int(sum))

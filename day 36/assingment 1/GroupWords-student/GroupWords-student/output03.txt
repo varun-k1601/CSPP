@@ -1,0 +1,1 @@
+{'e': ['elephant', 'eagle', 'ear'], 'i': ['ink', 'ice', 'iguana']}

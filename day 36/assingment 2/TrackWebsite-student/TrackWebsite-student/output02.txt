@@ -1,0 +1,1 @@
+{'user1': ['site1.com', 'site3.com'], 'user2': ['site2.com']}

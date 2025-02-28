@@ -1,0 +1,1 @@
+{'apple': ['red', 'yellow'], 'banana': ['red', 'yellow']}

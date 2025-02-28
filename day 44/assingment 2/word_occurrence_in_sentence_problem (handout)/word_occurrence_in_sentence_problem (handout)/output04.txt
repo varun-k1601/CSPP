@@ -1,0 +1,1 @@
+{'a': 3, 'man': 1, 'plan': 1, 'canal': 1, 'panama': 1}

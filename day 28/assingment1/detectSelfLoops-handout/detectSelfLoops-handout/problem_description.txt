@@ -1,0 +1,29 @@
+
+# Problem: Detect Self-Loops in a Graph
+## Topic: Graphs, Dictionaries, Loops
+
+### Description:
+Write a function `detect_self_loops(graph)` that takes an adjacency list representation of a graph and returns `True` if there is any self-loop in the graph and `False` otherwise. A self-loop is an edge that connects a vertex to itself.
+
+### Function Signature:
+```python
+def detect_self_loops(graph: dict) -> bool:
+```
+
+### Input:
+- `graph` (dict): A dictionary where each key is a vertex, and its corresponding value is a list of adjacent vertices (the adjacency list representation).
+
+### Output:
+- A boolean `True` if there is at least one self-loop in the graph, `False` otherwise.
+
+### Example:
+```python
+detect_self_loops({"A": ["B", "A"], "B": ["A"]})  # Output: True
+detect_self_loops({"A": ["B"], "B": ["C"], "C": ["A"]})  # Output: False
+```
+
+### Constraints:
+- The graph will have at least one vertex.
+
+### Notes:
+- Iterate through each vertex and its adjacency list to check if any vertex appears in its own adjacency list.

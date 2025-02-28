@@ -1,0 +1,14 @@
+FizzBuzz
+13
+Fizz
+11
+Buzz
+Fizz
+8
+7
+Fizz
+Buzz
+4
+Fizz
+2
+1

@@ -1,0 +1,1 @@
+{3: ['apple', 'cherry'], 2: ['banana']}

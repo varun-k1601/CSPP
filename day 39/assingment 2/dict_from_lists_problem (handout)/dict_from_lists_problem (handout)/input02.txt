@@ -1,0 +1,2 @@
+['apple', 'banana', 'cherry']
+[100, 200, 300]

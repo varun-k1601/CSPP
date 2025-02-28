@@ -1,0 +1,2 @@
+['emp1', 'emp2']
+[{'name': 'Alice', 'role': 'Manager'}, {'name': 'Bob', 'role': 'Engineer'}]

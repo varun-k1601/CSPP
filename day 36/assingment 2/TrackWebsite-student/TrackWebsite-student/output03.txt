@@ -1,0 +1,1 @@
+{'charlie': ['foo.com', 'bar.com'], 'dave': ['baz.com']}

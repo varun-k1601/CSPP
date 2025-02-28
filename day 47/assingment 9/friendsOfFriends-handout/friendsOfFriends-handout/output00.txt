@@ -1,0 +1,7 @@
+arya ['tyrion']
+brienne ['tyrion']
+jaime ['jon', 'pod']
+jon ['jaime', 'pod']
+pod ['jon']
+ramsay []
+tyrion ['arya', 'brienne']

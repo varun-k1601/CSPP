@@ -1,0 +1,1 @@
+{'hello': 'h3o', 'world': 'w3d', 'AI': 'AI', 'dictionary': 'd8y', 'abbreviation': 'a10n'}

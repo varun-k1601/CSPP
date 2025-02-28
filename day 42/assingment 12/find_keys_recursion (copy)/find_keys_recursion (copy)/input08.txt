@@ -1,0 +1,2 @@
+{'outer': 8, 'inner': {'inner2': {'inner3': 9}}, 'key': 8}
+8

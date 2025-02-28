@@ -1,0 +1,1 @@
+{'dept1': {'budget': 10000, 'employees': 50}, 'dept2': {'budget': 20000, 'employees': 75}}

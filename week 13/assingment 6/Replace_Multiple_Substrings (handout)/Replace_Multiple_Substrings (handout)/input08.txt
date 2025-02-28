@@ -1,0 +1,2 @@
+multiple consecutive consecutive words
+[["consecutive", "following"]]

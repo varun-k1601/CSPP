@@ -1,0 +1,4 @@
+2
+fred wilma barney bam-bam
+wilma bam-bam betty dino
+barney fred dino bam-bam

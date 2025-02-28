@@ -1,0 +1,2 @@
+{'apple': 5}
+{'apple': 10, 'banana': 3}

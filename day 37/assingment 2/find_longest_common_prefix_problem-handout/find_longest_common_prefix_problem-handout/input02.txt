@@ -1,0 +1,1 @@
+strs = ['interspecies', 'interstellar', 'interstate']

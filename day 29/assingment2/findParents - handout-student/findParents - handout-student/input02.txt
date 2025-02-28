@@ -1,0 +1,2 @@
+{"name": "John", "left": {"name": "Mary", "left": {"name": "Alice", "left": None, "right": None}, "right": {"name": "Bob", "left": None, "right": None}}, "right": {"name": "Tom", "left": {"name": "Carol", "left": None, "right": None}, "right": {"name": "Dave", "left": None, "right": None}}}
+Mary

@@ -1,0 +1,1 @@
+The number of 7's between 1 and 20 is 2.

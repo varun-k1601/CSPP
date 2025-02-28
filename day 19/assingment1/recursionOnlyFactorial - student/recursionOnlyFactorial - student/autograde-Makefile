@@ -1,0 +1,7 @@
+all:
+	tar xf autograde.tar
+	cp recursionOnlyFactorial.py recursionOnlyFactorial-handout
+	(cd recursionOnlyFactorial-handout;python3 eval.py recursionOnlyFactorial.py)
+
+clean:
+	rm -rf *~ recursionOnlyFactorial-handout

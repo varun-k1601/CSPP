@@ -1,0 +1,1 @@
+{'prod1': {'price': 25.5, 'stock': 100}, 'prod2': {'price': 35.75, 'stock': 200}}

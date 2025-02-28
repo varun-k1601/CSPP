@@ -1,0 +1,2 @@
+['dept1', 'dept2']
+[{'budget': 10000, 'employees': 50}, {'budget': 20000, 'employees': 75}]

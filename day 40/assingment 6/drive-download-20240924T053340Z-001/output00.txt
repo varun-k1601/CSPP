@@ -1,0 +1,1 @@
+{'Alice': 'HR', 'Bob': 'Finance', 'Charlie': 'IT'}

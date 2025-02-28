@@ -1,0 +1,3 @@
+{"Alice": ["Bob", "Charlie"],"Bob": ["Alice", "Charlie"],"Charlie": ["Alice", "Bob"],"David": []}
+Alice
+Eve

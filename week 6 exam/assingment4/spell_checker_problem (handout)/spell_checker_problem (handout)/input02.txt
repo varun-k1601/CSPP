@@ -1,0 +1,2 @@
+{"apple": True, "banana": True, "orange": True}
+pear

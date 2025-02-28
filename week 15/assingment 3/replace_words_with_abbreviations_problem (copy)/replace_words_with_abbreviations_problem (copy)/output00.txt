@@ -1,0 +1,1 @@
+{'international': 'i11l', 'example': 'e5e', 'word': 'w2d', 'AI': 'AI'}
